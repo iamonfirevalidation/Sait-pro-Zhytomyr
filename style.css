@@ -6,10 +6,11 @@ body {
 	color:black;
 	text-align:left;
 	font-family:tahoma;
+	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
 }
 
 header {
-	background-image: url("https://developer.valvesoftware.com/w/images/2/28/Finishedspawnroom.png");
+	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
 	font-family:monospace;
 
 h2 {
@@ -40,9 +41,9 @@ p {
 }
 
 footer {
-	background-image:url("https://learn.logikaschool.com/uploads/student/1040643/6504a56f1bbd6.png");
+	background-image:url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
 	color:#4f4f4f;
 	text-align:left;
-	font-family:monospace
+	font-family:monospace;
 }	
 	
