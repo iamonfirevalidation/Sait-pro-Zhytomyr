@@ -6,7 +6,6 @@ body {
 	color:black;
 	text-align:left;
 	font-family:tahoma;
-	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
 }
 
 header {
@@ -19,10 +18,10 @@ h2 {
 	color:#212121;
 	padding:5px;
 	text-align:center;
+	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
 }
 
 main {
-	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
 	color:black;
 	text-align:center;
 	border:1px;
@@ -31,19 +30,23 @@ main {
 .mainH2one{
 	b;
     color:black;
+	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
 }
 
 .h3Secret{
     background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
+	color:gray;
+	
 }
 p {
     text-align:left;
+	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
 }
 
 footer {
-	background-image:url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
-	color:#4f4f4f;
-	text-align:left;
+	background-color:grey;
+	color:orange;
+	text-align:right;
 	font-family:monospace;
-}	
+}		
 	
