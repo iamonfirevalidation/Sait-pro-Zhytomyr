@@ -1,0 +1,48 @@
+title {
+b;
+}
+body {
+	background-color:#4f4f4f;
+	color:black;
+	text-align:left;
+	font-family:tahoma;
+}
+
+header {
+	background-image: url("https://developer.valvesoftware.com/w/images/2/28/Finishedspawnroom.png");
+	font-family:monospace;
+
+h2 {
+	font-size 15;
+	font-family:sans-serif;
+	color:#212121;
+	padding:5px;
+	text-align:center;
+}
+
+main {
+	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
+	color:black;
+	text-align:center;
+	border:1px;
+}
+
+.mainH2one{
+	b;
+    color:black;
+}
+
+.h3Secret{
+    background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
+}
+p {
+    text-align:left;
+}
+
+footer {
+	background-image:url("https://learn.logikaschool.com/uploads/student/1040643/6504a56f1bbd6.png");
+	color:#4f4f4f;
+	text-align:left;
+	font-family:monospace
+}	
+	
