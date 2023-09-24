@@ -2,14 +2,15 @@ title {
 b;
 }
 body {
-	background-color:#4f4f4f;
+	background-color:#dbdbdb;
 	color:black;
 	text-align:left;
 	font-family:tahoma;
+	height: 100%;
 }
 
 header {
-	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
+	background-color:lightgray;
 	font-family:monospace;
 
 h2 {
@@ -18,7 +19,7 @@ h2 {
 	color:orange;
 	padding:5px;
 	text-align:center;
-	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
+	background-color:#grey;
 }
 
 main {
@@ -29,13 +30,13 @@ main {
 
 .mainH2one{
 	b;
-    color:black;
-	background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
+    color:orange;
+	background-color:#lightgray;
 }
 
 .h3Secret{
     background-image: url("https://learn.logikaschool.com/uploads/student/1040643/65009a93de0d4.png");
-	color:gray;
+	color:orange;
 	
 }
 p {
@@ -48,5 +49,14 @@ footer {
 	color:orange;
 	text-align:right;
 	font-family:monospace;
-}		
+}
+
+img {
+    width="400px";
+    height="400px";
+}
+
+.i3{
+    color:lightgrey;
+}
 	
